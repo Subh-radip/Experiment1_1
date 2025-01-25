@@ -1,7 +1,6 @@
 # URK24CS1026
 
-hello world
- happy new year 2025
- pikachu
- 
-hello guys
+A=60
+B=20
+C=A+B
+print(c)
