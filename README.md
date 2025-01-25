@@ -6,3 +6,5 @@ C=A+B
 print(c)
 
 this is a python code
+this is an arithematic function
+
