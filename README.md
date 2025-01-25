@@ -4,3 +4,5 @@ A=60
 B=20
 C=A+B
 print(c)
+
+this is a python code
